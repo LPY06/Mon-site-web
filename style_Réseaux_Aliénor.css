@@ -1,0 +1,23 @@
+body {
+    background-color: #000; /* Fond noir */
+    color: #fff; /* Texte en blanc */
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+header {
+    background-color: #333; /* Fond gris foncé */
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+ul li{
+    text-align: center;
+    list-style-type: none;
+}
+img{
+    width: 500px;
+    height: auto;
+}
